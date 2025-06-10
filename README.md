@@ -23,4 +23,4 @@ Dependencies
 
 Notes
  -Data files (joblist.txt, peoplesInfo.txt) are created/updated automatically in the project directory.
- -All source code is in the src/main/java/finalproject folder.
+ -All source code is in the src/main/java/finalproject folder. 
