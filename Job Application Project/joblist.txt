@@ -1,0 +1,18 @@
+2314, Nuclear Engineer: Starting pay is $95k and you will work Monday - Friday from 7am - 4pm.
+2075, Software Engineer: Starting pay is $80k and you will work Monday - Friday from 9am - 4pm.
+3741, PreSchool Teacher: Starting pay is $25k and you will work Monday - Friday from 7am - 3pm.
+3123, High School Teacher: Starting pay is $30k and you will work Monday - Friday from 9am - 5pm.
+1892, Journalist: Starting pay is $50k and you will work Sunday - Thursday from TBD.
+4001, Nursing: Starting pay is $65k and you will work Monday - Thursday from 6am - 6pm
+4567, Pediatrician: Starting pay is $125k and you will work Monday - Friday from 8am - 4pm.
+4123, Financial Analyst: Starting pay is $69k and you will work Monday - Friday from 8am - 4:30pm.
+1061, Retail Sales Rep: Starting pay is $40k and you will work Monday - Sunday from 9am - 10pm Note: 3 days off and when youll be scheduled vary.
+5351, Accountant: Starting pay is $70k and you will work Monday - Friday from 10am - 6pm.
+6032, Orchestra: Starting pay is $72k and you will work TBD and practice Monday - Thursday from 11am - 3pm.
+1278, Customer Service Rep: Starting pay is $31k and you will work Monday - Sunday from 6am - 11pm Note: 2 days off and when youll be scheduled vary.
+2346, Electrical Engineer: Starting pay is $86k and you will work Monday - Friday from 9am - 4pm.
+1145, Marketing Rep: Starting pay is $48k and you will work Monday - Friday from 9am - 5pm.
+6320, Actor: Starting pay is $40k and you will work TBD.
+2913, Hardware Engineer: Starting pay is $75k and you will work Monday - Friday from 9am - 4pm.
+3896, High School Counselor: Starting pay is $35k and you will work Monday - Friday from 9am - 5pm.
+1567, Janitor: Starting pay is $14 per hour and you will work Monday - Friday from 6pm - 4am.

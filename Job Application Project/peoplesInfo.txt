@@ -1,0 +1,54 @@
+Liam H, True: Computer Science
+James L, False
+Linda A, True: Health Professions
+Kim K, False
+Sarah M, True: Business
+William F, True: Education
+Susan H, True: Finance
+Karen R, False
+Thomas K, False
+Cynthia E, True: Engineering
+Nick G, False
+Eric H, True: Communication
+Larry Z, True: Performing Arts
+Helen S, False
+Rebecca D, True: Psychology
+Anna N, True: Finance
+Samantha R, True: Communication
+Julie A, False
+Nathan B, False
+Jack O, True: Engineering
+Emma R, True: Engineering
+Joyce A, False
+Noah M, True: Computer Science
+Joshua H, True: Computer Science
+Travis C, False
+Jessica M, True: Health Professions
+Alice K, False
+Madison G, True: Performing Arts
+Jordan D, False
+Alexis H,  False
+Kayla C, False
+Russel W, True: Health Professions
+Hunter M, True: Computer Science
+Garrett L, False
+Sophie R, True: Health Professions
+Amber H, True: Education
+Scott C, True: Business
+Jose J, False
+Tyler H, True: Finance
+Carolyn B, False
+Joe E, False
+Adam S, True: Performing Arts
+Henry R, False
+Kelly Y, True: Communication
+Olivia G, True: Performing Arts
+Alex F, False
+Johnny D, True: Psychology
+Heather T, True: Finance
+Andrea A, True: Communication
+Keith E, False
+Judith F, False
+Grace P, True: Engineering
+Logan P, True: Psychology
+Kevin H, True: Nursing
